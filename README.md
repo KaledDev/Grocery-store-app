@@ -18,3 +18,4 @@ Cette application Android est développée en **Kotlin**. Elle permet à l'utili
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
 git clone https://github.com/KaledDev/Grocery-store-app
+![bandicam 2024-10-12 00-38-39-896](https://github.com/user-attachments/assets/56e94fd2-3e2e-4108-88df-af3e12a54620)
